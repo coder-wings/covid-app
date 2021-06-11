@@ -1,9 +1,9 @@
 import React from "react";
 import Header from "./components/Header";
-import Home from './components/Home'
-import Statewise from './components/Statewise'
-import AboutUs from './components/AboutUs'
-import ContactUs from './components/ContactUs'
+import Home from "./components/Home";
+import Statewise from "./components/Statewise";
+import AboutUs from "./components/AboutUs";
+import ContactUs from "./components/ContactUs";
 
 import { Switch, Route } from "react-router-dom";
 
@@ -26,7 +26,6 @@ function App() {
           <ContactUs />
         </Route>
       </Switch>
-
     </>
   );
 }
