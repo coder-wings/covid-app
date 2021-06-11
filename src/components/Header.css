@@ -1,0 +1,23 @@
+nav{
+    background-color: black;
+    display: flex;
+    /*justify-content: space-between;*/
+    position: relative;
+    flex-direction: row;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img{
+    width: 100px;
+}
+ li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: 700;
+    margin: 29px;
+}

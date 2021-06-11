@@ -1,0 +1,17 @@
+.summary{
+    
+    text-align: center;
+}
+
+.summary img{
+    width: 150px;
+}
+.cname{
+    display: inline;
+    font-size: 50px;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
+.lastUpdated{
+    margin-top: 40px;
+}
